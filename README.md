@@ -50,3 +50,6 @@ This project used multiple extension in order to operate including the following
 
 ## gitHub / heroku 
 
+https://github.com/wjimh314/pwa_texteditor
+
+https://shielded-stream-81476.herokuapp.com/
